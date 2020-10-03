@@ -6,12 +6,12 @@ The venture tells you the zones which need trees to be planted and urges individ
 Through the information from NASA, we can perceive which zones may should be greener, and we will urge the closest individuals to plant on those territories. Additionally, NASA information can be utilized in numerous different models like to discover copied backwoods territories, zones where the waterways have dried. A forecast model can likewise be utilized on picture preparing to foresee the water bodies like streams which are going to dry in next barely any years. Along these lines, we can urge individuals to plant an ever-increasing number of trees on those areas to spare those water bodies.
 
 # Model Features:
-•	Home page
-•	NASA Global Map
-•	Latest posts by users (public: can be seen by any one)
-•	Login portal
-•	User dashboard
-•	Local map (find trees and get updated with latest actions)
+## •	Home page
+## •	NASA Global Map
+## •	Latest posts by users (public: can be seen by any one)
+## •	Login portal
+## •	User dashboard
+## •	Local map (find trees and get updated with latest actions)
 
 # Model Description:
 This is a fake venture to just give you all an overview of what our project is. In the beginning the home page is displayed which contains maps on nav bar to navigate the number of users and trees planted round the globe. Alongside it also contains the latest posts section which displays the latest posts posted by the envirogram users updating their status of their trees.
