@@ -19,6 +19,10 @@
     <nav class="navbar">
         <div class="max-width">
             <div class="logo"><i class="fas fa-camera-retro"></i><a href="#"><span>Envirogram</span></a></div>
+              <div class="bat">
+              <button class="openbtn" onclick="openNav()"></button>
+             <a href="javascript:void(0)" onclick="closeNav()"></a>
+            </div>
             <ul class="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About us</a></li>
@@ -29,6 +33,17 @@
                 <li><a href="posts.html">Latest Posts</a></li>
 
             </ul>
+            <script>
+function openNav() {
+  document.getElementByClass("menu").style.width = "250px";
+  document.getElementByClass("bat").style.marginRight = "250px";
+}
+
+function closeNav() {
+  document.getElementByClass("menu").style.width = "0";
+  document.getElementByClass("bat").style.marginRight= "0";
+}
+</script>
             <div class="menu-btn">
                 <i class="fas fa-bars"></i>
             </div>
