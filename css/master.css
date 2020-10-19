@@ -90,7 +90,10 @@ html {
 .navbar.sticky .menu li a:hover {
     color: #111;
 }
-
+@media screen and (max-height: 450px) {
+  .navbar {padding-top: 15px;}
+  .navbar a {font-size: 18px;}
+}
 /*Btn*/
 .menu-btn {
     color: #fff;
